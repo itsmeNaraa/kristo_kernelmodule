@@ -1,1 +1,0 @@
-savedcmd_/home/kristoforusapm/km/kristo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/kristoforusapm/km/kristo.ko /home/kristoforusapm/km/kristo.o /home/kristoforusapm/km/kristo.mod.o
