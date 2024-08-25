@@ -1,1 +1,1 @@
-obj-m += kristo.c
+obj-m += kristo.o
